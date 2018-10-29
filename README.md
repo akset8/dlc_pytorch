@@ -1,2 +1,2 @@
 # dlc_pytorch
-image classification models implementation in pytorch 
+Image classification models implementation in Pytorch 
